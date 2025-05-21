@@ -1,5 +1,8 @@
 <div style="text-align: center;">
-  <img src="/images/background.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="/welcome.png" alt="Profile Background" style="width: 100%; max-width: 100%;">
+</div>
+<div style="text-align: center;">
+  <img src="/background.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
 </div>
 <p align="center">
   <a href="mailto:arnold@hillsgrade.com.au" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" width="50" /></a>
@@ -67,7 +70,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="/images/icons/wordpress.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
+      <img src="/icons/wordpress.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">WordPress</p>
       </div>
     </td>
@@ -81,13 +84,13 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="/images/icons/Redux.png" alt="Redux Icon" style="width: 65px; height: 65px;" />
+      <img src="/icons/Redux.png" alt="Redux Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/react-native.png" alt="React Native Icon" style="width: 65px; height: 65px;" />
+      <img src="./icons/react-native.png" alt="React Native Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">React Native</p>
       </div>
     </td>
@@ -111,7 +114,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/Angular.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
+      <img src="./icons/Angular.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Angular</p>
       </div>
     </td>
@@ -137,25 +140,25 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/Postgresql.png" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/Postgresql.png" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Postgresql</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/GraphQL.png" alt="GraphQL Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/GraphQL.png" alt="GraphQL Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">GraphQL</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/express-js.png" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/express-js.png" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/MongoDB.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/MongoDB.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
@@ -173,13 +176,13 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/blockchain.png" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/blockchain.png" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">BlockChain</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/web3.png" style="width: 65px; height: 65px;" />
+        <img src="/icons/web3.png" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Web3</p>
       </div>
     </td>
